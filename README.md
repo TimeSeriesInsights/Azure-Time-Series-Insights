@@ -7,7 +7,7 @@ This project framework provides the following features:
 
 * C# Hello World App
 * JS Hello World App
-
+* Python Hello World App
 
 ## Getting Started
 To get started, refer to the README.md and this documentation: https://docs.microsoft.com/en-us/azure/time-series-insights/time-series-insights-authentication-and-authorization
